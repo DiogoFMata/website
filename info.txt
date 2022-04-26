@@ -3,7 +3,7 @@ Template HTML CSS with database MYSQL::PDO query Sweet Alert 2
 
 This a website created for private reasons and because of that i can´t show the database
 
-But still i can show the tables:
+Still i can show the tables:
 
 Table users;
 
